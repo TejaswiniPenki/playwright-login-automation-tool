@@ -1,2 +1,1 @@
-A simple tool to automate login using Playwright, LangGraph, and Streamlit.  
-It fills the login form, logs steps, and takes screenshots.
+This project automates the login process using Playwright, LangGraph, and Streamlit.
